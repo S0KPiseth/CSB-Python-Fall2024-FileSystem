@@ -1,0 +1,31 @@
+1. Student information:
+
+  - Name: {name}
+  - Class: {class}
+  - Semester: {semester}
+  - Course Enrolled: {courses} courses
+
+2. Overall Performance {name}:
+
+  - Average score: {average}
+  - Number of A(s): {A}
+
+3.  Subject-wise analysis:
+
+  - Best Performance Subject: {best_course}
+  - Worst Performance Subject: {worst_course}
+  - {improve_course}
+ 
+4. Notable Observations:
+
+  - {obcourse}
+
+5. Web Data Insights:
+
+  - Online participation: {web_time_spent}
+
+6. Recommendations:
+
+  - Consider additional support for {worst_course}.
+
+Report generated on: {time}
